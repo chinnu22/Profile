@@ -41,3 +41,18 @@ form{
     height: 200px;
     background-color: lightgray
 }
+
+
+
+.column{
+    float: left;
+    width: 15%;
+    padding:5px;
+}
+
+
+.row{
+    content: "";
+    clear:both;
+    display: table;
+}
